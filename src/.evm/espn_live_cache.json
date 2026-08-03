@@ -1,0 +1,208 @@
+{
+  "source": "ESPN Public Soccer API (eng.1 / esp.1 / uefa.champions)",
+  "syncTimestamp": "2026-08-02T10:56:25.147352+00:00",
+  "leagues": [
+    {
+      "id": "eng.1",
+      "name": "English Premier League",
+      "season": "2024-2025"
+    },
+    {
+      "id": "esp.1",
+      "name": "Spanish LaLiga",
+      "season": "2024-2025"
+    },
+    {
+      "id": "uefa.champions",
+      "name": "UEFA Champions League",
+      "season": "2024-2025"
+    }
+  ],
+  "articles": [
+    {
+      "id": "espn-live-1",
+      "headline": "Liverpool's Alexander Isak, Florian Wirtz to play preseason clash vs Leeds",
+      "description": "Liverpool trio Alexander Isak, Florian Wirtz and Ryan Gravenberch are set to feature in the club's final United States preseason tour match against Leeds United.",
+      "published": "2026-08-02T10:29:35Z",
+      "source": "ESPN ENG.1 API Wire",
+      "player": "Mohamed Salah",
+      "club": "Liverpool FC",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-2",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "published": "2026-08-02T08:17:18Z",
+      "source": "ESPN ENG.1 API Wire",
+      "player": "Premier League Star",
+      "club": "European Club",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-3",
+      "headline": "Transfer rumors, news: Salah set for Trabzonspor after Liverpool exit",
+      "description": "Former Liverpool winger Mohamed Salah is set to move to Turkish club Trabzonspor. Transfer Talk has the latest.",
+      "published": "2026-08-02T08:10:21Z",
+      "source": "ESPN ENG.1 API Wire",
+      "player": "Mohamed Salah",
+      "club": "Liverpool FC",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-4",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "published": "2026-08-02T07:22:03Z",
+      "source": "ESPN ENG.1 API Wire",
+      "player": "Premier League Star",
+      "club": "European Club",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-5",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "published": "2026-08-02T07:20:35Z",
+      "source": "ESPN ENG.1 API Wire",
+      "player": "Premier League Star",
+      "club": "European Club",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-6",
+      "headline": "Endrick scores as Real Madrid get draw in Mourinho's return",
+      "description": "Real Madrid drew 2-2 with Fiorentina in a preseason friendly on Saturday, in new coach José Mourinho's first game in charge.",
+      "published": "2026-08-01T19:15:09Z",
+      "source": "ESPN ESP.1 API Wire",
+      "player": "Kylian Mbappé",
+      "club": "Real Madrid",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-7",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "published": "2026-08-02T09:08:20Z",
+      "source": "ESPN ESP.1 API Wire",
+      "player": "Premier League Star",
+      "club": "European Club",
+      "condition": "IN FORM"
+    },
+    {
+      "id": "espn-live-8",
+      "headline": "Barcelona sign teenage winger Jesse Bisiwu from Club Brugge",
+      "description": "Barcelona's attacking revamp has continued with the signing of young Belgian winger Jesse Bisiwu from Club Brugge.",
+      "published": "2026-07-31T18:31:11Z",
+      "source": "ESPN ESP.1 API Wire",
+      "player": "Lamine Yamal",
+      "club": "FC Barcelona",
+      "condition": "IN FORM"
+    },
+    {
+      "id": "espn-live-9",
+      "headline": "Real Madrid sign forward Carlos Espí from Levante",
+      "description": "Real Madrid have signed forward Carlos Espí from Levante on a five-year contract, the club announced on Thursday.",
+      "published": "2026-07-30T21:54:38Z",
+      "source": "ESPN ESP.1 API Wire",
+      "player": "Kylian Mbappé",
+      "club": "Real Madrid",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-10",
+      "headline": "Fulham agree £34m fee with Real Madrid for Gonzalo García, deal for César Palacios also close - sources",
+      "description": "Real Madrid have agreed a deal with Fulham for forward Gonzalo García to join the Premier League club, sources have told ESPN, and are close to another which will see midfielder César Palacios make the same move.",
+      "published": "2026-07-30T21:56:48Z",
+      "source": "ESPN ESP.1 API Wire",
+      "player": "Kylian Mbappé",
+      "club": "Real Madrid",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-11",
+      "headline": "What can Barcelona achieve next season under Hansi Flick?",
+      "description": "What can Barcelona achieve next season under Hansi Flick?",
+      "published": "2026-07-30T17:05:16Z",
+      "source": "ESPN UEFA.CHAMPIONS API Wire",
+      "player": "Lamine Yamal",
+      "club": "FC Barcelona",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-12",
+      "headline": "Tottenham defeat Sydney FC on penalties at Sydney Super Cup",
+      "description": "Mathys Tel nets a stunning free kick for Spurs before Tottenham hold their nerve in a shootout to claim a 1-1 (4-2) victory against a resilient Sydney FC.",
+      "published": "2026-07-30T00:54:46Z",
+      "source": "ESPN UEFA.CHAMPIONS API Wire",
+      "player": "Premier League Star",
+      "club": "European Club",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-13",
+      "headline": "Ledley King: De Zerbi has made 'a real difference at Spurs'",
+      "description": "Tottenham great Ledley King talks the arrival of new manager Roberto De Zerbi, key signings made over the summer, and Spurs' new mentality.",
+      "published": "2026-07-29T05:31:14Z",
+      "source": "ESPN UEFA.CHAMPIONS API Wire",
+      "player": "Premier League Star",
+      "club": "European Club",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-14",
+      "headline": "Hearts Champions League bid ends with defeat to Sturm Graz",
+      "description": "Hearts' Champions League dream fizzled out with a meek 2-0 defeat at home to Sturm Graz in the second leg of their second qualifying round tie.",
+      "published": "2026-07-28T21:16:59Z",
+      "source": "ESPN UEFA.CHAMPIONS API Wire",
+      "player": "Premier League Star",
+      "club": "European Club",
+      "condition": "FIT"
+    },
+    {
+      "id": "espn-live-15",
+      "headline": "Will Mourinho keep Endrick at Real Madrid?",
+      "description": "Will Mourinho keep Endrick at Real Madrid?",
+      "published": "2026-07-28T17:11:33Z",
+      "source": "ESPN UEFA.CHAMPIONS API Wire",
+      "player": "Kylian Mbappé",
+      "club": "Real Madrid",
+      "condition": "FIT"
+    }
+  ],
+  "teams": [
+    {
+      "id": "mancity",
+      "name": "Manchester City",
+      "abbreviation": "MNC",
+      "venue": {
+        "name": "Etihad Stadium",
+        "capacity": 53400
+      },
+      "manager": "Pep Guardiola",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+    },
+    {
+      "id": "realmadrid",
+      "name": "Real Madrid",
+      "abbreviation": "RMA",
+      "venue": {
+        "name": "Santiago Bernabéu",
+        "capacity": 81044
+      },
+      "manager": "Carlo Ancelotti",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+    },
+    {
+      "id": "barcelona",
+      "name": "FC Barcelona",
+      "abbreviation": "FCB",
+      "venue": {
+        "name": "Spotify Camp Nou",
+        "capacity": 99354
+      },
+      "manager": "Hansi Flick",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+    }
+  ]
+}

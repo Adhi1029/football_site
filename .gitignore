@@ -36,6 +36,4 @@ dist-ssr/
 *.sw?
 
 # Temporary and custom folders
-.evm/
-src/.evm/
 .tmp/
